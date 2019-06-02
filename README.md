@@ -8,10 +8,13 @@ python3 server.py
 To run a <b>client</b>
 ~~~~
 python3 client.py
+~~~~
+
+example of client
+~~~~
 Enter you name: test
 Enter server ID OR Creat server ID:287493797
 2323
 21321
 2112
-
 ~~~~
