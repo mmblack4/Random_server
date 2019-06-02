@@ -1,5 +1,5 @@
 # Random server
-This python server client can connect to server using python and server will send random number for ever 3 second, client can be single client or group of client
+This python server client can connect to server using python and server will send random number for ever 3 second, client can be single user or group of user by it <b>server ID</b>
 
 To run a <b>server</b>
 ~~~~
